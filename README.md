@@ -2,7 +2,7 @@
 
 ## Goal
 
-The objective of this challenge is to solidify what i've learn't in the Dicee tutorial. This app will guide me through the steps required to build an 8 ball app and you will be applying what i have learnt about Stateless and Stateful Flutter widgets.
+The objective of this challenge is to solidify what i've learn't in the Dicee tutorial. This app will guide me through the steps required to build an 8 ball app and I will also apply what I have learnt about Stateless and Stateful Flutter widgets.
 
 
 ## What I created
